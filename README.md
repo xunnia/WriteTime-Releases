@@ -4,7 +4,7 @@ Write Time is an AI writing assistant for Windows, based on PI-Desktop and the P
 
 ## Download
 
-- **Windows installer (recommended):** [Download the latest setup](https://github.com/xunnia/WriteTime-Releases/releases/latest/download/WriteTime-Setup-0.18.0.exe)
+- **Windows installer (recommended):** [Download setup 0.18.0](https://github.com/xunnia/WriteTime-Releases/releases/download/v0.18.0/WriteTime-Setup-0.18.0.exe)
 - [All versions and portable packages](https://github.com/xunnia/WriteTime-Releases/releases)
 - [Current release details](https://github.com/xunnia/WriteTime-Releases/releases/latest)
 
